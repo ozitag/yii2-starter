@@ -2,8 +2,7 @@
 
 namespace app\modules\admin;
 
-
-class Module extends \blakit\admin\Module
+class Module extends \ozerich\admin\Module
 {
     public $userIdentityClass = 'app\modules\admin\models\User';
 

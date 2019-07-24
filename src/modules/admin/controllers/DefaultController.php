@@ -2,7 +2,7 @@
 
 namespace app\modules\admin\controllers;
 
-use blakit\admin\controllers\base\AdminController;
+use ozerich\admin\controllers\base\AdminController;
 
 class DefaultController extends AdminController
 {
