@@ -1,6 +1,6 @@
 {
   "name": "yii2-starter",
-  "description": "Project's description",
+  "description": "This Yii2 starter was created by @Ozerich",
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.1.0",
