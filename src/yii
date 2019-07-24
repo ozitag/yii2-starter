@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+<?php
+ini_set('memory_limit', '1024M');
+
+const APP_NAME = 'console';
+const APP_TYPE = 'yii\console\Application';
+
+defined('STDIN') or define('STDIN', fopen('php://stdin', 'r'));
+defined('STDOUT') or define('STDOUT', fopen('php://stdout', 'w'));
+
+require(__DIR__ . '/vendor/autoload.php');
+$config = require(__DIR__ . '/config/init.php');
+require(__DIR__ . '/vendor/yiisoft/yii2/Yii.php');
+
+$application = new yii\console\Application($config);
+$exitCode = $application->run();
+
+exit($exitCode);
