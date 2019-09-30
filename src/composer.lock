@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c8ab93d51359afa15dd4b1f79acd9fb2",
+    "content-hash": "5a386e64da62996fa3f9d30db60e4cb6",
     "packages": [
         {
             "name": "2amigos/yii2-tinymce-widget",
@@ -68,16 +68,16 @@
         },
         {
             "name": "almasaeed2010/adminlte",
-            "version": "v2.4.15",
+            "version": "v2.4.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ColorlibHQ/AdminLTE.git",
-                "reference": "78d0c113742630fd0305bc1c8cbff94a075b5532"
+                "reference": "e7ffa67a4649dc08d2018708a38604a6c0a02ab6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ColorlibHQ/AdminLTE/zipball/78d0c113742630fd0305bc1c8cbff94a075b5532",
-                "reference": "78d0c113742630fd0305bc1c8cbff94a075b5532",
+                "url": "https://api.github.com/repos/ColorlibHQ/AdminLTE/zipball/e7ffa67a4649dc08d2018708a38604a6c0a02ab6",
+                "reference": "e7ffa67a4649dc08d2018708a38604a6c0a02ab6",
                 "shasum": ""
             },
             "require": {
@@ -107,7 +107,7 @@
                 "theme",
                 "web"
             ],
-            "time": "2019-07-16T15:40:03+00:00"
+            "time": "2019-08-29T08:20:20+00:00"
         },
         {
             "name": "bower-asset/bootstrap",
@@ -599,13 +599,13 @@
             "authors": [
                 {
                     "name": "Neuman Vong",
-                    "role": "Developer",
-                    "email": "neuman+pear@twilio.com"
+                    "email": "neuman+pear@twilio.com",
+                    "role": "Developer"
                 },
                 {
                     "name": "Anant Narayanan",
-                    "role": "Developer",
-                    "email": "anant@php.net"
+                    "email": "anant@php.net",
+                    "role": "Developer"
                 }
             ],
             "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
@@ -644,9 +644,9 @@
             "authors": [
                 {
                     "name": "Dave Gandy",
-                    "role": "Developer",
                     "email": "dave@fontawesome.io",
-                    "homepage": "http://twitter.com/davegandy"
+                    "homepage": "http://twitter.com/davegandy",
+                    "role": "Developer"
                 }
             ],
             "description": "The iconic font and CSS framework",
@@ -662,16 +662,16 @@
         },
         {
             "name": "giggsey/libphonenumber-for-php",
-            "version": "8.10.15",
+            "version": "8.10.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/giggsey/libphonenumber-for-php.git",
-                "reference": "e67ce0839ba448988d109c6c17718472a5d9ccff"
+                "reference": "b8f2341692df067028445fee35ca7144d009e251"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/e67ce0839ba448988d109c6c17718472a5d9ccff",
-                "reference": "e67ce0839ba448988d109c6c17718472a5d9ccff",
+                "url": "https://api.github.com/repos/giggsey/libphonenumber-for-php/zipball/b8f2341692df067028445fee35ca7144d009e251",
+                "reference": "b8f2341692df067028445fee35ca7144d009e251",
                 "shasum": ""
             },
             "require": {
@@ -726,7 +726,7 @@
                 "phonenumber",
                 "validation"
             ],
-            "time": "2019-07-15T14:58:27+00:00"
+            "time": "2019-09-18T15:37:43+00:00"
         },
         {
             "name": "giggsey/locale",
@@ -833,16 +833,16 @@
         },
         {
             "name": "myclabs/php-enum",
-            "version": "1.7.1",
+            "version": "1.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/myclabs/php-enum.git",
-                "reference": "f46847626b8739de22e4ebc6b56010f317d4448d"
+                "reference": "45f01adf6922df6082bcda36619deb466e826acf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/myclabs/php-enum/zipball/f46847626b8739de22e4ebc6b56010f317d4448d",
-                "reference": "f46847626b8739de22e4ebc6b56010f317d4448d",
+                "url": "https://api.github.com/repos/myclabs/php-enum/zipball/45f01adf6922df6082bcda36619deb466e826acf",
+                "reference": "45f01adf6922df6082bcda36619deb466e826acf",
                 "shasum": ""
             },
             "require": {
@@ -874,20 +874,20 @@
             "keywords": [
                 "enum"
             ],
-            "time": "2019-05-05T10:12:03+00:00"
+            "time": "2019-08-19T13:53:00+00:00"
         },
         {
             "name": "ozerich/yii2-admin",
-            "version": "2.2",
+            "version": "2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ozerich/yii2-admin.git",
-                "reference": "a752621c036175b666c8c7602434b06f769ddaf2"
+                "reference": "d2b3dc5f95ed8c758d3633ef4f7b1f3da26a5855"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ozerich/yii2-admin/zipball/a752621c036175b666c8c7602434b06f769ddaf2",
-                "reference": "a752621c036175b666c8c7602434b06f769ddaf2",
+                "url": "https://api.github.com/repos/Ozerich/yii2-admin/zipball/d2b3dc5f95ed8c758d3633ef4f7b1f3da26a5855",
+                "reference": "d2b3dc5f95ed8c758d3633ef4f7b1f3da26a5855",
                 "shasum": ""
             },
             "require": {
@@ -923,20 +923,20 @@
                 "extension",
                 "yii2"
             ],
-            "time": "2019-07-02T17:38:54+00:00"
+            "time": "2019-09-26T06:48:56+00:00"
         },
         {
             "name": "ozerich/yii2-api",
-            "version": "2.3.3",
+            "version": "2.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ozerich/yii2-api.git",
-                "reference": "d39e633ad847465b86dc9e482deef513a8bb3bec"
+                "reference": "7b88895f1273ccff4ec0251cd33878b300a0a17f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ozerich/yii2-api/zipball/d39e633ad847465b86dc9e482deef513a8bb3bec",
-                "reference": "d39e633ad847465b86dc9e482deef513a8bb3bec",
+                "url": "https://api.github.com/repos/Ozerich/yii2-api/zipball/7b88895f1273ccff4ec0251cd33878b300a0a17f",
+                "reference": "7b88895f1273ccff4ec0251cd33878b300a0a17f",
                 "shasum": ""
             },
             "require": {
@@ -959,26 +959,26 @@
             "authors": [
                 {
                     "name": "Vital Ozierski",
-                    "role": "Developer",
                     "email": "vital@ozerich.com",
-                    "homepage": "https://ozerich.me"
+                    "homepage": "https://ozerich.me",
+                    "role": "Developer"
                 }
             ],
             "description": "Api starter for Yii2 projects",
-            "time": "2019-04-22T20:43:05+00:00"
+            "time": "2019-08-23T19:18:35+00:00"
         },
         {
             "name": "ozerich/yii2-filestorage-db",
-            "version": "1.2.9",
+            "version": "1.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ozerich/yii2-filestorage-db.git",
-                "reference": "a13c97f091a75fa506de610684a5247df159f510"
+                "reference": "b3b71b411b5fc8731c7edb698458ab9b64822f17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ozerich/yii2-filestorage-db/zipball/a13c97f091a75fa506de610684a5247df159f510",
-                "reference": "a13c97f091a75fa506de610684a5247df159f510",
+                "url": "https://api.github.com/repos/Ozerich/yii2-filestorage-db/zipball/b3b71b411b5fc8731c7edb698458ab9b64822f17",
+                "reference": "b3b71b411b5fc8731c7edb698458ab9b64822f17",
                 "shasum": ""
             },
             "require": {
@@ -1020,7 +1020,7 @@
                 "upload",
                 "yii2"
             ],
-            "time": "2019-06-27T12:29:10+00:00"
+            "time": "2019-09-29T17:59:42+00:00"
         },
         {
             "name": "ozerich/yii2-tools",
@@ -1179,16 +1179,16 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.11.0",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "82ebae02209c21113908c229e9883c419720738a"
+                "reference": "550ebaac289296ce228a706d0867afc34687e3f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/82ebae02209c21113908c229e9883c419720738a",
-                "reference": "82ebae02209c21113908c229e9883c419720738a",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/550ebaac289296ce228a706d0867afc34687e3f4",
+                "reference": "550ebaac289296ce228a706d0867afc34687e3f4",
                 "shasum": ""
             },
             "require": {
@@ -1200,7 +1200,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.11-dev"
+                    "dev-master": "1.12-dev"
                 }
             },
             "autoload": {
@@ -1217,12 +1217,12 @@
             ],
             "authors": [
                 {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                },
-                {
                     "name": "Gert de Pagter",
                     "email": "BackEndTea@gmail.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
@@ -1233,20 +1233,20 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-08-06T08:03:45+00:00"
         },
         {
             "name": "tinymce/tinymce",
-            "version": "5.0.12",
+            "version": "5.0.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tinymce/tinymce-dist.git",
-                "reference": "c5d8e43738cea9b428c50c6ee1d3d9eb6c653a6d"
+                "reference": "7a58a0e3bd83fb3692d4e721c56fa6925e337926"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tinymce/tinymce-dist/zipball/c5d8e43738cea9b428c50c6ee1d3d9eb6c653a6d",
-                "reference": "c5d8e43738cea9b428c50c6ee1d3d9eb6c653a6d",
+                "url": "https://api.github.com/repos/tinymce/tinymce-dist/zipball/7a58a0e3bd83fb3692d4e721c56fa6925e337926",
+                "reference": "7a58a0e3bd83fb3692d4e721c56fa6925e337926",
                 "shasum": ""
             },
             "type": "component",
@@ -1279,7 +1279,7 @@
                 "tinymce",
                 "wysiwyg"
             ],
-            "time": "2019-07-18T06:31:14+00:00"
+            "time": "2019-09-24T03:21:01+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -1334,16 +1334,16 @@
         },
         {
             "name": "yiisoft/yii2",
-            "version": "2.0.23",
+            "version": "2.0.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-framework.git",
-                "reference": "d430bf78cf59e341bf4a1cb401a4ae71a889a492"
+                "reference": "6793f8f9b4cd891dbf475cfbb88cf480f74eaa85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/d430bf78cf59e341bf4a1cb401a4ae71a889a492",
-                "reference": "d430bf78cf59e341bf4a1cb401a4ae71a889a492",
+                "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/6793f8f9b4cd891dbf475cfbb88cf480f74eaa85",
+                "reference": "6793f8f9b4cd891dbf475cfbb88cf480f74eaa85",
                 "shasum": ""
             },
             "require": {
@@ -1380,48 +1380,48 @@
             "authors": [
                 {
                     "name": "Qiang Xue",
-                    "role": "Founder and project lead",
                     "email": "qiang.xue@gmail.com",
-                    "homepage": "http://www.yiiframework.com/"
+                    "homepage": "http://www.yiiframework.com/",
+                    "role": "Founder and project lead"
                 },
                 {
                     "name": "Alexander Makarov",
-                    "role": "Core framework development",
                     "email": "sam@rmcreative.ru",
-                    "homepage": "http://rmcreative.ru/"
+                    "homepage": "http://rmcreative.ru/",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Maurizio Domba",
-                    "role": "Core framework development",
-                    "homepage": "http://mdomba.info/"
+                    "homepage": "http://mdomba.info/",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Carsten Brandt",
-                    "role": "Core framework development",
                     "email": "mail@cebe.cc",
-                    "homepage": "http://cebe.cc/"
+                    "homepage": "http://cebe.cc/",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Timur Ruziev",
-                    "role": "Core framework development",
                     "email": "resurtm@gmail.com",
-                    "homepage": "http://resurtm.com/"
+                    "homepage": "http://resurtm.com/",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Paul Klimov",
-                    "role": "Core framework development",
-                    "email": "klimov.paul@gmail.com"
+                    "email": "klimov.paul@gmail.com",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Dmitry Naumenko",
-                    "role": "Core framework development",
-                    "email": "d.naumenko.a@gmail.com"
+                    "email": "d.naumenko.a@gmail.com",
+                    "role": "Core framework development"
                 },
                 {
                     "name": "Boudewijn Vahrmeijer",
-                    "role": "Core framework development",
                     "email": "info@dynasource.eu",
-                    "homepage": "http://dynasource.eu"
+                    "homepage": "http://dynasource.eu",
+                    "role": "Core framework development"
                 }
             ],
             "description": "Yii PHP Framework Version 2",
@@ -1430,7 +1430,7 @@
                 "framework",
                 "yii2"
             ],
-            "time": "2019-07-16T19:44:09+00:00"
+            "time": "2019-09-18T13:04:16+00:00"
         },
         {
             "name": "yiisoft/yii2-bootstrap",
@@ -1554,16 +1554,16 @@
     "packages-dev": [
         {
             "name": "opis/closure",
-            "version": "3.3.1",
+            "version": "3.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/opis/closure.git",
-                "reference": "92927e26d7fc3f271efe1f55bdbb073fbb2f0722"
+                "reference": "60a97fff133b1669a5b1776aa8ab06db3f3962b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/opis/closure/zipball/92927e26d7fc3f271efe1f55bdbb073fbb2f0722",
-                "reference": "92927e26d7fc3f271efe1f55bdbb073fbb2f0722",
+                "url": "https://api.github.com/repos/opis/closure/zipball/60a97fff133b1669a5b1776aa8ab06db3f3962b7",
+                "reference": "60a97fff133b1669a5b1776aa8ab06db3f3962b7",
                 "shasum": ""
             },
             "require": {
@@ -1611,7 +1611,7 @@
                 "serialization",
                 "serialize"
             ],
-            "time": "2019-07-09T21:58:11+00:00"
+            "time": "2019-09-02T21:07:33+00:00"
         },
         {
             "name": "phpspec/php-diff",
@@ -1653,16 +1653,16 @@
         },
         {
             "name": "yiisoft/yii2-debug",
-            "version": "2.1.6",
+            "version": "2.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-debug.git",
-                "reference": "726999bbcc04d8aeb6db02fd6719290793793cbf"
+                "reference": "62679af3183c308c0edffecc69778afc32ae55aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/726999bbcc04d8aeb6db02fd6719290793793cbf",
-                "reference": "726999bbcc04d8aeb6db02fd6719290793793cbf",
+                "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/62679af3183c308c0edffecc69778afc32ae55aa",
+                "reference": "62679af3183c308c0edffecc69778afc32ae55aa",
                 "shasum": ""
             },
             "require": {
@@ -1707,20 +1707,20 @@
                 "debugger",
                 "yii2"
             ],
-            "time": "2019-07-23T20:20:47+00:00"
+            "time": "2019-09-18T10:49:01+00:00"
         },
         {
             "name": "yiisoft/yii2-gii",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/yiisoft/yii2-gii.git",
-                "reference": "d1c18f0dcbd72ab285acd320c56b1aa2554e06fa"
+                "reference": "6ebe5e1550030b9b65beaf656cd175577eb74975"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-gii/zipball/d1c18f0dcbd72ab285acd320c56b1aa2554e06fa",
-                "reference": "d1c18f0dcbd72ab285acd320c56b1aa2554e06fa",
+                "url": "https://api.github.com/repos/yiisoft/yii2-gii/zipball/6ebe5e1550030b9b65beaf656cd175577eb74975",
+                "reference": "6ebe5e1550030b9b65beaf656cd175577eb74975",
                 "shasum": ""
             },
             "require": {
@@ -1758,7 +1758,7 @@
                 "gii",
                 "yii2"
             ],
-            "time": "2019-03-17T19:23:15+00:00"
+            "time": "2019-08-13T14:34:28+00:00"
         }
     ],
     "aliases": [],
