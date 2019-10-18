@@ -5,7 +5,7 @@ $components = [
     'db' => [
         'class' => 'yii\db\Connection',
         'charset' => 'utf8',
-        'dsn' => 'mysql:host=' . getenv('DB_HOST') . ';dbname=' . getenv('DB_NAME'),
+        'dsn' => 'mysql:host=' . getenv('DB_HOST').":".getenv('DB_PORT') . ';dbname=' . getenv('DB_NAME'),
         'username' => getenv('DB_USER'),
         'password' => getenv('DB_PASSWORD')
     ],
