@@ -9,8 +9,7 @@
     "ozerich/yii2-tools": "^1.0",
     "mito/yii2-sentry": "~1.0.0",
     "vlucas/phpdotenv": "^2.6",
-    "yiisoft/yii2": "^2.0.15",
-    "mikehaertl/phpwkhtmltopdf": "^2.4"
+    "yiisoft/yii2": "^2.0.15"
   },
   "require-dev": {
     "yiisoft/yii2-debug": "*",
